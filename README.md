@@ -5,11 +5,11 @@
 The app is designed and created for sharing study materials using **React Native** to ensure hassle-free user experience, **NodeJs** for back-end and
 Express JS to interact with **MongoDB**.
 
-Features have been provided features for uploading, upvoting, downvoting, bookmarking,and accessing notes, which can be in form of file or image of any type.
+Features have been provided for uploading, upvoting, downvoting, bookmarking,and accessing notes, which can be in form of file or image of any type.
 
 Custom authentication and data storage model are implemented, form validation is also performed.
 
-Permission to alow acess to media and camera is used, so as to allow user to upload study materials from device or click picture of study material.
+Permission to alow access to media and camera is used, so as to allow user to upload study materials from device or click picture of study material.
 
 Different screens are created for specified user application, and have been linked to allow them to interact with each other.
 
