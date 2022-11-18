@@ -15,12 +15,12 @@ Different screens are created for specified user application, and have been link
 
 The code had been optimised wherever possible. Data-base is hosted using MongoDB Atlas, back-end through Heroku and apk is created for android.
 
-<p align="center">
-  <img src="./Images/image1.jpeg" width="180" title="Profile Screen">
-  <img src="./Images/image2.jpeg"" width="180" alt="Available Material Screen">
-  <img src="./Images/image3.jpeg"" width="180" alt="Upload Material Screen">
-  <img src="./Images/image4.jpeg"" width="180" alt="Bookmark Screen">
-  <img src="./Images/image5.jpeg"" width="180" alt="Register/Login Screen">
+<p align="start">
+  <img src="./Images/image1.jpeg" width="19%" title="Profile Screen">
+  <img src="./Images/image2.jpeg"" width="19%" alt="Available Material Screen">
+  <img src="./Images/image3.jpeg"" width="19%" alt="Upload Material Screen">
+  <img src="./Images/image4.jpeg"" width="19%" alt="Bookmark Screen">
+  <img src="./Images/image5.jpeg"" width="19%" alt="Register/Login Screen">
 </p>
 
 # Apk
